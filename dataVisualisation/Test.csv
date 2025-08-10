@@ -1,0 +1,5 @@
+,userName,city,age,age_fillna,new_age,age_3
+0,hari,bangalore,27.0,27,54,81
+1,karan,chennai,,22,44,66
+2,noi,bangalore,20.0,20,40,60
+3,poi,bangalore,21.0,21,42,63
